@@ -1,0 +1,37 @@
+name: Build PDF
+on:
+  push:
+    tags:
+      - 'v*'
+
+env:
+  LEI_VERSION: ${{ github.ref_name }}
+  LEI_PDF: ${{ format('build/LEÍ_{0}.pdf', github.ref_name) }}
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+    steps:
+      - name: Pulling repo
+        uses: actions/checkout@v6
+
+      - name: Create Build dir
+        run: mkdir -p build
+
+      - name: Create pdf
+        uses: docker://pandoc/extra:3.8
+        with:
+          args: >-
+            --defaults defaults/latex.yaml
+            --metadata version=${{ env.LEI_VERSION }}
+            --pdf-engine tectonic
+            --output ${{ env.LEI_PDF }}
+
+      - name: Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ env.LEI_VERSION }}" "${{ env.LEI_PDF }}" \
+          --title "LEÍ ${{ env.LEI_VERSION }}" \
