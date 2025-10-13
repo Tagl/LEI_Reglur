@@ -333,6 +333,11 @@ Lið bera ábyrgð á að setja upp hetjuval á https://draftlol.dawe.gg fyrir l
 
 Fyrirliði hvers liðs ber ábyrgð að senda hlekk (e. link) af hetjuvali á mótstjórn þegar hún er gerð.
 
+### 2.4.12 Skiptingar í viðureignum
+Lið má skipta um leikmann á milli leikja í einvígi (þ.e. milli leiks 1 og leiks 2 o.s.frv.). Sá sem kemur inn verður að vera skráður varamaður í liðshóp.
+
+Lið hefur 5 mínútur eftir að fyrri leikur klárast til að láta mótastjórn og andstæðing vita að skipting á sér stað í næsta leik, ef lið lætur ekki vita tímanlega þarf leikmaður sem átti að vera skipt út að spila eða liðið gefur leikinn.
+
 ## 2.5 Þjálfarar
 
 ### 2.5.1 Þjálfari liðs
