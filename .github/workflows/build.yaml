@@ -1,0 +1,44 @@
+name: Build PDF
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - src/**
+
+env:
+  # TODO: get version from git tag
+  VERSION: 'v1.0.1'
+  PDF_FILENAME: "LEÍ_${{ VERSION }}.pdf"
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pulling repo
+        uses: actions/checkout@v6
+        run: mkdir -p build
+
+      - name: Preprocess metadata
+        uses: docker://pandoc/extra:3.8
+        with:
+          args: >-
+            --defaults defaults/metadata.yaml
+            --metadata version="${VERSION}"
+
+      - name: Create pdf
+        uses: docker://pandoc/extra:3.8
+        with:
+          args: >-
+            --defaults defaults/latex.yaml
+            --metadata version="${VERSION}"
+            -o build/"${PDF_FILENAME}"
+
+      - name: Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${VERSION}" "${PDF_FILENAME}" \
+          --title "LEÍ ${VERSION}" \
+          --notes "TODO: add notes for release"
+          gh release verify ${VERSION}

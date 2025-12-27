@@ -1,17 +1,14 @@
-# Input and Output settings
 input-file: src/base.md
 from: markdown
 to: gfm
 output-file: README.md
-template: src/base.md
+template: templates/readme.gfm.md
+
+metadata-file: build/metadata.yaml
 
 verbosity: INFO
 fail-if-warnings: true
-
-## data-dir: dir  # what is
+wrap: none
 
 # Document Structure
 standalone: true
-
-# Metadata and Variables
-metadata-file: build/metadata.yaml
