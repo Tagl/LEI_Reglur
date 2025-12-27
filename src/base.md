@@ -352,4 +352,3 @@ Liðum er heimilt að hafa 1 skráðan þjálfara. Þjálfarar mega einungis fyl
 
 Þjálfarar þurfa að vera inni á talrás með liðinu sínu á Discord “Íslenska LoL Samfélagið” meðan leikur stendur fyrir, sbr. reglu 2.4.11 um samskipti liðs. (Þessi regla gildir einungis ef þjálfari er viðstaddur á meðan leik stendur).
 Þjálfara er óheimilt að tala meðan leikur stendur og verður að vera með slökkt á hljóði  (e. muted) nema í hetjuvali (e. Champion Select). Þjálfarar mega ekki tala ef það er pása í leiknum vegna tæknilegra eða annarra ástæðna.
-

@@ -26,6 +26,7 @@ jobs:
           args: >-
             --defaults defaults/latex.yaml
             --metadata version=${{ env.LEI_VERSION }}
+            --pdf-engine=tectonic
             -o ${{ env.LEI_PDF }}
 
       - name: Release
