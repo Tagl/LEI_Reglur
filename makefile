@@ -11,7 +11,7 @@ pdf tex: _pre
 	       --output build/document_"$(VERSION).$@"
 
 _pre:
-	mkdir -p build
+	mkdir --parents build
 
 clean:
 	rm --force --dir build/{*.{pdf,tex},}

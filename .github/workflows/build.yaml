@@ -1,14 +1,11 @@
 name: Build PDF
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'src/**'
+  tags:
+  - '*'
 
 env:
-  LEI_VERSION: ${{ contains(github.ref, 'refs/tags/') && github.ref_name || 'dirty' }}
-  LEI_PDF: ${{ format('build/LEÍ_v{0}.pdf', contains(github.ref, 'refs/tags/') && github.ref_name || 'dirty') }}
+  LEI_VERSION: $ {{ github.ref_name }}
+  LEI_PDF: ${{ format('build/LEÍ_v{0}.pdf', github.ref_name) }}
 
 jobs:
   build_pdf:
@@ -26,13 +23,13 @@ jobs:
           args: >-
             --defaults defaults/latex.yaml
             --metadata version=${{ env.LEI_VERSION }}
-            --pdf-engine=tectonic
-            -o ${{ env.LEI_PDF }}
+            --pdf-engine tectonic
+            --output ${{ env.LEI_PDF }}
 
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create "${{ env.LEI_VERSION }}" "${{ env.LEI_PDF}}" \
+          gh release create "${{ env.LEI_VERSION }}" "${{ env.LEI_PDF }}" \
           --title "LEÍ ${{ env.LEI_VERSION }}" \
           --notes "TODO: add notes for release"
