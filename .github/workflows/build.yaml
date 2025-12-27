@@ -13,6 +13,8 @@ env:
 jobs:
   build_pdf:
     runs-on: ubuntu-latest
+    permissions:
+        contents: write
     steps:
       - name: Pulling repo
         uses: actions/checkout@v6
