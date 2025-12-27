@@ -36,4 +36,3 @@ jobs:
           gh release create "${{ env.LEI_VERSION }}" "${{ env.LEI_PDF}}" \
           --title "LEÍ ${{ env.LEI_VERSION }}" \
           --notes "TODO: add notes for release"
-          gh release verify ${{ env.LEI_VERSION }}
