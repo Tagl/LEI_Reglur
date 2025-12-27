@@ -7,9 +7,8 @@ on:
       - 'src/**'
 
 env:
-  # TODO: get version from git tag
-  LEI_VERSION: 'v1.0.1'
-  LEI_PDF_NAME: 'LEÍ_${LEI_VERSION}.pdf'
+  LEI_VERSION: ${{ contains(github.ref, 'refs/tags/') && github.ref_name || 'dirty' }}
+  LEI_PDF: ${{ format('build/LEÍ_v{0}.pdf', contains(github.ref, 'refs/tags/') && github.ref_name || 'dirty') }}
 
 jobs:
   build_pdf:
@@ -21,23 +20,19 @@ jobs:
       - name: Create Build dir
         run: mkdir -p build
 
-        # TODO: dont do dumb hacks to evaluate variables
-      - name: evaluate pdf name
-        run: echo "LEI_PDF=${{ env.LEI_PDF_NAME }}" >> $GITHUB_ENV
-
       - name: Create pdf
         uses: docker://pandoc/extra:3.8
         with:
           args: >-
             --defaults defaults/latex.yaml
-            --metadata version="${LEI_VERSION}"
-            -o build/"${LEI_PDF}"
+            --metadata version=${{ env.LEI_VERSION }}
+            -o ${{ env.LEI_PDF }}
 
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create "${LEI_VERSION}" "${LEI_PDF}" \
-          --title "LEÍ ${LEI_VERSION}" \
+          gh release create "${{ env.LEI_VERSION }}" "${{ env.LEI_PDF}}" \
+          --title "LEÍ ${{ env.LEI_VERSION }}" \
           --notes "TODO: add notes for release"
-          gh release verify ${LEI_VERSION}
+          gh release verify ${{ env.LEI_VERSION }}
