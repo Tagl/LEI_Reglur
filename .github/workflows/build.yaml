@@ -27,6 +27,9 @@ jobs:
             --defaults defaults/metadata.yaml
             --metadata version="${LEI_VERSION}"
 
+      - name: DEBUG cat metadata
+        run: cat build/metadata.yaml
+
       - name: Create pdf
         uses: docker://pandoc/extra:3.8
         with:
