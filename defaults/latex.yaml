@@ -1,14 +1,12 @@
-input-file: src/base.md
-from: gfm
+defaults:
+- defaults/common.yaml
 
-verbosity: INFO
-
-metadata-file: build/metadata.yaml
 pdf-engine: latexmk
 
 # Document Structure
 standalone: true
 template: templates/eisvogel.latex
+include-in-header: templates/abstract.tex
 table-of-contents: true
 toc-depth: 2
 

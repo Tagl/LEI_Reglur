@@ -7,8 +7,9 @@ on:
       - 'src/**'
 
 env:
+  # TODO: get version from git tag
   LEI_VERSION: 'v1.0.1'
-  LEI_PDF: 'LEÍ_${LEI_VERSION}.pdf'
+  LEI_PDF_NAME: 'LEÍ_${LEI_VERSION}.pdf'
 
 jobs:
   build_pdf:
@@ -28,7 +29,7 @@ jobs:
             --metadata version="${LEI_VERSION}"
 
       - name: DEBUG cat metadata
-        run: cat build/metadata.yaml
+        run: echo "LEI_PDF=${{ env.LEI_PDF_NAME }}" >> $GITHUB_ENV
 
       - name: Create pdf
         uses: docker://pandoc/extra:3.8
@@ -36,13 +37,13 @@ jobs:
           args: >-
             --defaults defaults/latex.yaml
             --metadata version="${LEI_VERSION}"
-            -o build/"${{ env.LEI_PDF }}"
+            -o build/"${LEI_PDF}"
 
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create "${LEI_VERSION}" "${{ env.LEI_PDF }}" \
+          gh release create "${LEI_VERSION}" "${LEI_PDF}" \
           --title "LEÍ ${LEI_VERSION}" \
           --notes "TODO: add notes for release"
           gh release verify ${LEI_VERSION}

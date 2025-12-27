@@ -1,14 +1,10 @@
-input-file: src/base.md
-from: gfm
+defaults:
+- defaults/common.yaml
+
 to: gfm
 output-file: README.md
 template: templates/readme.gfm.md
 
-metadata-file: build/metadata.yaml
-
-verbosity: INFO
-fail-if-warnings: true
-wrap: preserve
-
 # Document Structure
 standalone: true
+wrap: preserve

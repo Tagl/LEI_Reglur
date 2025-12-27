@@ -1,27 +1,18 @@
 VERSION := $(shell git describe --tags --always --dirty)
+# TODO: dont hardcode
 VERSION := v1.0.1
 
-pdf: _metadata
+pdf tex: _pre
 	pandoc --defaults defaults/latex.yaml \
 	       --metadata version="$(VERSION)" \
-	       -o build/document_$(VERSION).pdf
+	       -o build/document_"$(VERSION).$@"
 
-tex: _metadata
-	pandoc --defaults defaults/latex.yaml \
-	       --metadata version="$(VERSION)" \
-	       -o build/document_$(VERSION).tex
-
-readme: _metadata
+readme: _pre
 	pandoc --defaults defaults/readme.yaml \
 	       --metadata version="$(VERSION)"
 
-clean:
-	rm build/metadata.yaml
-	rm build/*.pdf
-	rm build/*.tex
-	rmdir build
+_pre:
+	mkdir -p build/
 
-_metadata:
-	mkdir -p build
-	pandoc --defaults defaults/metadata.yaml \
-	       --metadata version="$(VERSION)"
+clean:
+	rm --dir build/{*.{pdf,tex},} 2> /dev/null || true

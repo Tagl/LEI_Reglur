@@ -583,14 +583,14 @@ $endif$
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
 $endif$
-$if(subtitle)$
+$if(version)$
 \usepackage{etoolbox}
 \makeatletter
 \providecommand{\subtitle}[1]{% add subtitle to \maketitle
   \apptocmd{\@title}{\par {\large #1 \par}}{}{}
 }
 \makeatother
-\subtitle{$subtitle$}
+\subtitle{$version$}
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 \date{$date$}
@@ -944,9 +944,9 @@ $if(titlepage-background)$
   \vfill
   \vskip -8em
   \noindent {\huge \textbf{\textsf{$title$}}}
-  $if(subtitle)$
+  $if(version)$
   \vskip 1em
-  {\Large \textsf{$subtitle$}}
+  {\Large \textsf{$version$}}
   $endif$
   \vskip 2em
   \noindent {\Large \textsf{$for(author)$$author$$sep$, $endfor$} \vskip 0.6em \textsf{$date$}}
@@ -957,9 +957,9 @@ $else$
   \setstretch{1.4}
   \vfill
   \noindent {\huge \textbf{\textsf{$title$}}}
-  $if(subtitle)$
+  $if(version)$
   \vskip 1em
-  {\Large \textsf{$subtitle$}}
+  {\Large \textsf{$version$}}
   $endif$
   \vskip 2em
   \noindent {\Large \textsf{$for(author)$$author$$sep$, $endfor$}}
