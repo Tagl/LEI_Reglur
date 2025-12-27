@@ -5,11 +5,11 @@ on:
       - main
     paths:
       - 'src/**'
-
+ 
+# TODO: get version from git tag
 env:
-  # TODO: get version from git tag
-  VERSION: 'v1.0.1'
-  PDF_FILENAME: "LEÍ_${{ VERSION }}.pdf"
+  LEI_VERSION: 'v1.0.1'
+  LEI_PDF: "LEÍ_${{ LEI_VERSION }}.pdf"
 
 jobs:
   build_pdf:
@@ -17,28 +17,30 @@ jobs:
     steps:
       - name: Pulling repo
         uses: actions/checkout@v6
+        
+      - name: Create Build dir
         run: mkdir -p build
-
+        
       - name: Preprocess metadata
         uses: docker://pandoc/extra:3.8
         with:
           args: >-
             --defaults defaults/metadata.yaml
-            --metadata version="${VERSION}"
+            --metadata version="${LEI_VERSION}"
 
       - name: Create pdf
         uses: docker://pandoc/extra:3.8
         with:
           args: >-
             --defaults defaults/latex.yaml
-            --metadata version="${VERSION}"
-            -o build/"${PDF_FILENAME}"
+            --metadata version="${LEI_VERSION}"
+            -o build/"${LEI_PDF}"
 
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create "${VERSION}" "${PDF_FILENAME}" \
-          --title "LEÍ ${VERSION}" \
+          gh release create "${LEI_VERSION}" "${LEI_PDF}" \
+          --title "LEÍ ${LEI_VERSION}" \
           --notes "TODO: add notes for release"
-          gh release verify ${VERSION}
+          gh release verify ${LEI_VERSION}
