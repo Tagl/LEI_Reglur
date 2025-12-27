@@ -1,5 +1,5 @@
 input-file: src/base.md
-from: markdown
+from: gfm
 to: gfm
 output-file: README.md
 template: templates/readme.gfm.md

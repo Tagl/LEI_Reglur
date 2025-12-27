@@ -1,10 +1,12 @@
 ---
 abstract: |
- # Formáli
  Rafíþróttasamtök Íslands (hér eftir RÍSÍ) eru samtök sem hafa að leiðarljósi að koma rafíþróttum á þann stall sem þær eiga heima á og búa til öruggt og stöðugt keppnisumhverfi á Íslandi fyrir einstaklinga og lið.
+ 
  RÍSÍ eiga allan rétt að mótum og deildum á sem eru á vegum RÍSÍ í League of Legends.
- LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagningu á mótum og viðburðum fyrir áhugafólk LoL samfélagsins á Íslandi.
- Þessi reglubók gildir fyrir alla þátttakendur League of Legends bæði í deildum RÍSÍ og LEÍ (hér eftir “mótið”), hvort sem það séu lið, leikmenn eða aðilar liðs, og alla leiki sem á þeim fara fram.
+ 
+ LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagningu á mótum og viðburðum fyrir áhugafólk LoL samfélagsins á Íslandi. 
+ 
+ Þessi reglubók gildir fyrir alla þátttakendur League of Legends bæði í deildum RÍSÍ og LEÍ (hér eftir “mótið”), hvort sem það séu lið, leikmenn eða aðilar liðs, og alla leiki sem á þeim fara fram. 
 ...
 # 1. Almennt
 

@@ -6,12 +6,12 @@ v1.0.1
 
 # Formáli
 
-# Formáli
-
-Þessi reglubók gildir fyrir alla þátttakendur League of Legends bæði í deildum RÍSÍ og LEÍ (hér eftir “mótið”), hvort sem það séu lið, leikmenn eða aðilar liðs, og alla leiki sem á þeim fara fram.
 Rafíþróttasamtök Íslands (hér eftir RÍSÍ) eru samtök sem hafa að leiðarljósi að koma rafíþróttum á þann stall sem þær eiga heima á og búa til öruggt og stöðugt keppnisumhverfi á Íslandi fyrir einstaklinga og lið.
+
 RÍSÍ eiga allan rétt að mótum og deildum á sem eru á vegum RÍSÍ í League of Legends.
+
 LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagningu á mótum og viðburðum fyrir áhugafólk LoL samfélagsins á Íslandi.
+
 Þessi reglubók gildir fyrir alla þátttakendur League of Legends bæði í deildum RÍSÍ og LEÍ (hér eftir “mótið”), hvort sem það séu lið, leikmenn eða aðilar liðs, og alla leiki sem á þeim fara fram.
 
 # 1. Almennt
@@ -27,6 +27,7 @@ Eftirtaldir eru einu aðilar sem taka ákvarðanir og á að leita til varðandi
 ### 1.0.1 Siðareglur mótstjórnar
 
 Mótastjórar skulu:
+
 - Koma fram af fullkomnum heilindum og háttvísi gagnvart sjálfum sér og öðrum.
 - Gæta trúnaðar og þagmælsku í störfum sínum.
 - Ekki misnota valdastöðu sína eða hvers konar yfirburði sem þeir kunna að hafa yfir öðrum.
@@ -69,6 +70,7 @@ Með þátttöku í mótum samþykkja öll lið og leikmenn að þeim beri að s
 ### 1.3.1 Móðganir og óviðeigandi hegðun
 
 Þessi listi yfir hegðun sem er óviðunandi er ekki tæmandi og mun hvert atvik vera dæmt útaf fyrir sig
+
 - Kynþáttahatur, kynbundin mismunun eða önnur mismunun.
 - Niðurlægjandi eða hatursfullt orðafar.
 - Nokkurs konar áreitni, þ.m.t. kynferðisleg áreitni.
@@ -81,8 +83,8 @@ Mótstjórn áskilur sér rétt til að dæma ákveðna hegðun óviðeigandi þ
 
 ## 1.4 Samskipti
 
-Öllum keppendum í mótum ber að vera á Discord server Íslenska LoL samfélagsins: https://discord.gg/tNvthVnXAz
-Hægt er að ná í stjórnendur þar eða með því að senda mail á lei.iceland@gmail.com
+Öllum keppendum í mótum ber að vera á Discord server Íslenska LoL samfélagsins: <https://discord.gg/tNvthVnXAz>
+Hægt er að ná í stjórnendur þar eða með því að senda mail á <lei.iceland@gmail.com>
 
 ## 1.5 Veðmál
 
@@ -109,16 +111,17 @@ Allir þátttakendur skulu kynna sér reglur þessar.
 Heiti leikmanns má aðeins innihalda nafn eins styrktaraðila, og þá skeytt fyrir framan sjálft nafn leikmanns. Heiti leikmanns inni í leik má ekki vera aðeins nafn styrktaraðila.
 
 Einnig eru heiti bönnuð sem að:
+
 - Eru orðrétt eins og einkaréttarvarin vörumerki eða annað
 - Eru keimlík eða nánast eins og einkaréttarvarin vörumerki
 - Eru heiti á öðrum manneskjum öðrum en leikmanni sjálfum
 - Eru heiti á stjórnendum mótanna eða öðrum sem koma að henni
 - Eru tóm vitleysa
 - Eru dónaleg, þessi listi er ekki tæmandi:
-- Niðrandi gagnvart minnihlutahópum
-- Innihalda dónalegt orðbragð
-- Innihalda kynþáttaníð
-- Ofl.
+  - Niðrandi gagnvart minnihlutahópum
+  - Innihalda dónalegt orðbragð
+  - Innihalda kynþáttaníð
+  - Ofl.
 
 Það að breyta hvernig orð er ritað til að komast framhjá þessum kvöðum virkar ekki.
 
@@ -136,7 +139,7 @@ Liðum er heimilt að vera með 3 varamenn.
 ### 2.1.4 Samskipti við þátttakendur
 
 Samskipti milli þátttakenda og mótstjórnar skal eiga sér stað á Discord og á Discord þjóninum “Íslenska LoL Samfélagið”. Boðskóði/tengill á þjóninn er ssPm4Qmu3d eða
-https://discord.gg/hdwbXbPnys. Þátttakendur bera ábyrgð á því að fylgjast með því hvort mótastjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá.
+<https://discord.gg/hdwbXbPnys>. Þátttakendur bera ábyrgð á því að fylgjast með því hvort mótastjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá.
 
 ## 2.2 Lið
 
@@ -265,6 +268,7 @@ Keppnisdagar í KIA deildinni eru miðvikudaga frá kl. 19:00 - 22:00 frá 3. se
 Eitt stig eru veitt fyrir sigur, alltaf er leikið til úrslita sem skilar öðru liði sigri. Núll stig eru veitt fyrir tap.
 
 Ef að tvö eða fleiri lið eru jöfn að stigum að deildarkeppni er lokið eru liðin borin saman á eftirfarandi hátt í þessari röð:
+
 - Innbyrðis úrslit
 - Leiktími í sigurleikjum (sneggri sigrar eru betri)
 - Handahófskennd röðun framkvæmd af mótstjóra.
@@ -342,7 +346,7 @@ Mótstjórn er heimilt að koma í talrásina ef skyldi koma upp ástæða til �
 
 ### 2.4.11 Hetjuval (e. Champion Select).
 
-Lið bera ábyrgð á að setja upp hetjuval á https://draftlol.dawe.gg fyrir leik til að velja hetjur fyrir leik.
+Lið bera ábyrgð á að setja upp hetjuval á <https://draftlol.dawe.gg> fyrir leik til að velja hetjur fyrir leik.
 
 Fyrirliði hvers liðs ber ábyrgð að senda hlekk (e. link) af hetjuvali á mótstjórn þegar hún er gerð.
 
