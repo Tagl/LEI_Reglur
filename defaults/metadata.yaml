@@ -1,0 +1,6 @@
+input-file: src/metadata.yaml
+from: markdown
+to: markdown
+output-file: build/metadata.yaml
+template: src/metadata.yaml
+verbosity: INFO

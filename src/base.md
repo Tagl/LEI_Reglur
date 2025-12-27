@@ -1,33 +1,25 @@
-LEÍ Reglubók
-League of Legends
-
-Uppfært 2025-10-13
-v1.0.1
-
-# Formáli
-
-Rafíþróttasamtök Íslands (hér eftir RÍSÍ) eru samtök sem hafa að leiðarljósi að koma rafíþróttum á þann stall sem þær eiga heima á og búa til öruggt og stöðugt keppnisumhverfi á Íslandi fyrir einstaklinga og lið.
-
-RÍSÍ eiga allan rétt að mótum og deildum á sem eru á vegum RÍSÍ í League of Legends.
-
-LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagningu á mótum og viðburðum fyrir áhugafólk LoL samfélagsins á Íslandi.
-
-Þessi reglubók gildir fyrir alla þátttakendur League of Legends bæði í deildum RÍSÍ og LEÍ (hér eftir “mótið”), hvort sem það séu lið, leikmenn eða aðilar liðs, og alla leiki sem á þeim fara fram.
-
+---
+abstract: |
+ Rafíþróttasamtök Íslands (hér eftir RÍSÍ) eru samtök sem hafa að leiðarljósi að koma rafíþróttum á þann stall sem þær eiga heima á og búa til öruggt og stöðugt keppnisumhverfi á Íslandi fyrir einstaklinga og lið.
+ 
+ RÍSÍ eiga allan rétt að mótum og deildum á sem eru á vegum RÍSÍ í League of Legends.
+ 
+ LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagningu á mótum og viðburðum fyrir áhugafólk LoL samfélagsins á Íslandi. 
+ 
+ Þessi reglubók gildir fyrir alla þátttakendur League of Legends bæði í deildum RÍSÍ og LEÍ (hér eftir “mótið”), hvort sem það séu lið, leikmenn eða aðilar liðs, og alla leiki sem á þeim fara fram. 
+...
 # 1. Almennt
 
 ## 1.0 Umsjónarmenn móta
-
 Eftirtaldir eru einu aðilar sem taka ákvarðanir og á að leita til varðandi spurninga, vangaveltna eða aðstoðar varðandi reglur eða mót.
 
-- Sara Helena Bjarnad. Blöndal \<<sarablondal@gmail.com>\>
-- Mist Magnúsdóttir \<<mist.magnusdottir@gmail.com>\>
-- Brimar Jörvi Guðmundsson \<<brimarjorvi@gmail.com>\>
+- Sara Helena Bjarnad. Blöndal <<sarablondal@gmail.com>>
+- Mist Magnúsdóttir <<mist.magnusdottir@gmail.com>>
+- Brimar Jörvi Guðmundsson <<brimarjorvi@gmail.com>>
 
 ### 1.0.1 Siðareglur mótstjórnar
 
 Mótastjórar skulu:
-
 - Koma fram af fullkomnum heilindum og háttvísi gagnvart sjálfum sér og öðrum.
 - Gæta trúnaðar og þagmælsku í störfum sínum.
 - Ekki misnota valdastöðu sína eða hvers konar yfirburði sem þeir kunna að hafa yfir öðrum.
@@ -36,11 +28,9 @@ Mótastjórar skulu:
 - Hvorki þiggja gjafir eða hlunnindi sem geta leitt til þess að rýra trúverðugleika, sjálfstæði eða hlutleysi þeirra.
 
 ## 1.1 Gildissvið reglna
-
 Ef að einhver hluti reglna er rangur eða óframkvæmanlegur þá hefur það ekki áhrif á gildi annara hluta. Stjórnendur móta hafa ávallt endanlegt ákvörðunarvald hvað varðar reglur eða vafamál.
 
 ### 1.1.1 Brot gegn reglum
-
 Brjóti þátttakandi gegn reglum þessum getur það leitt til refsinga. Mótstjórn áskilur sér rétt til að dæma um hvort þátttakandi hafi brotið gegn reglum og hvort beita skuli refsingum ef svo er. Dæmi um refsingar eru meðal annars:
 
 - Þátttakanda er dæmt tap í leik eða leikjum á mótinu.
@@ -52,11 +42,9 @@ Brjóti þátttakandi gegn reglum þessum getur það leitt til refsinga. Mótst
 Dæmist þátttakandi brotlegur að fleiri en einni reglu og hlýtur fyrir það meira en eina refsingu skal mótstjórn dæma um hvort refsingarnar skuli sér eiga sér stað samtímis eða hver á eftir annarri þegar við á.
 
 ### 1.1.2 Gildistaka refsinga
-
 Ákveði mótstjórn að beita skuli refsingum skal hún á sama tíma ákveða hvort refsingin taki gildi frá þeim tíma sem ákvörðun var tekin eða frá því að hún hefur verið tilkynnt.
 
 ## 1.2 Trúnaður
-
 Öll samskipti leikmanna við stjórnendur eru trúnaðarmál og ekki má endurrita, afrita eða sýna á annan hátt óviðkomandi aðilum þau samskipti. Brot á þessum trúnaði er refsivert.
 
 Sem og annars staðar gildir 9. mgr. 47. gr laga um samskipti nr. 81/2003 um öll samskipti við mótstjórn eða mótsstjóra:
@@ -70,7 +58,6 @@ Með þátttöku í mótum samþykkja öll lið og leikmenn að þeim beri að s
 ### 1.3.1 Móðganir og óviðeigandi hegðun
 
 Þessi listi yfir hegðun sem er óviðunandi er ekki tæmandi og mun hvert atvik vera dæmt útaf fyrir sig
-
 - Kynþáttahatur, kynbundin mismunun eða önnur mismunun.
 - Niðurlægjandi eða hatursfullt orðafar.
 - Nokkurs konar áreitni, þ.m.t. kynferðisleg áreitni.
@@ -83,8 +70,8 @@ Mótstjórn áskilur sér rétt til að dæma ákveðna hegðun óviðeigandi þ
 
 ## 1.4 Samskipti
 
-Öllum keppendum í mótum ber að vera á Discord server Íslenska LoL samfélagsins: <https://discord.gg/tNvthVnXAz>
-Hægt er að ná í stjórnendur þar eða með því að senda mail á <lei.iceland@gmail.com>
+Öllum keppendum í mótum ber að vera á Discord server Íslenska LoL samfélagsins: https://discord.gg/tNvthVnXAz
+Hægt er að ná í stjórnendur þar eða með því að senda mail á lei.iceland@gmail.com
 
 ## 1.5 Veðmál
 
@@ -92,7 +79,7 @@ Keppendum er stranglega bannað að veðja á sína eigin leiki eða á einhvern
 
 ## 1.6 Klæðnaður keppenda
 
-Fari mót fram með þeim hætti að þátttakendur eru í nánum samskiptum ber þátttakendum að vera hreinir og snyrtilegir og gera sitt til að halda umhverfi sínu hreinu og snyrtilegu.
+Fari mót fram með þeim hætti að þátttakendur eru í nánum samskiptum ber þátttakendum að vera hreinir og snyrtilegir og gera sitt til að halda umhverfi sínu hreinu og snyrtilegu. 
 Það sama á við ef þátttakendur koma fyrir sjónir áhorfenda á vegum mótsins, t.d. í auglýsingaefni, við keppnir í sal, og þegar sýnt er frá leikjum þar sem notast er við myndavélar sem sýna þátttakendur.
 
 ## 1.7 Áfengi og vímuefni
@@ -111,7 +98,6 @@ Allir þátttakendur skulu kynna sér reglur þessar.
 Heiti leikmanns má aðeins innihalda nafn eins styrktaraðila, og þá skeytt fyrir framan sjálft nafn leikmanns. Heiti leikmanns inni í leik má ekki vera aðeins nafn styrktaraðila.
 
 Einnig eru heiti bönnuð sem að:
-
 - Eru orðrétt eins og einkaréttarvarin vörumerki eða annað
 - Eru keimlík eða nánast eins og einkaréttarvarin vörumerki
 - Eru heiti á öðrum manneskjum öðrum en leikmanni sjálfum
@@ -138,8 +124,8 @@ Liðum er heimilt að vera með 3 varamenn.
 
 ### 2.1.4 Samskipti við þátttakendur
 
-Samskipti milli þátttakenda og mótstjórnar skal eiga sér stað á Discord og á Discord þjóninum “Íslenska LoL Samfélagið”. Boðskóði/tengill á þjóninn er ssPm4Qmu3d eða
-<https://discord.gg/hdwbXbPnys>. Þátttakendur bera ábyrgð á því að fylgjast með því hvort mótastjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá.
+Samskipti milli þátttakenda og mótstjórnar skal eiga sér stað á Discord og á Discord þjóninum “Íslenska LoL Samfélagið”. Boðskóði/tengill á þjóninn er ssPm4Qmu3d eða 
+https://discord.gg/hdwbXbPnys. Þátttakendur bera ábyrgð á því að fylgjast með því hvort mótastjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá.
 
 ## 2.2 Lið
 
@@ -150,14 +136,13 @@ Heiti liðs má ekki aðeins vera nafn styrktaraðila eða vörumerkis, en nafn 
 ### 2.2.2 Eignarhald liða
 
 Litið er svo á ef að lið keppir undir merkjum félags sem hefur kennitölu og að leikmenn séu samningsbundnir því félagi þá stjórni viðkomandi félag sæti liðsins nema að annað sé tekið fram í samningum milli félagsins og leikmanna.
-Sé lið ekki að keppa undir merkjum félags með kennitölu er litið svo á að meirihluti “virkra”\* leikmanna liðsins stjórna sæti liðsins. \*Virkur leikmaður er leikmaður sem hefur spilað meirihluta (\>50%) leikja liðsins á tímabili.
+Sé lið ekki að keppa undir merkjum félags með kennitölu er litið svo á að meirihluti “virkra”* leikmanna liðsins stjórna sæti liðsins. *Virkur leikmaður er leikmaður sem hefur spilað meirihluta (>50%) leikja liðsins á tímabili.
 
 #### 2.2.2.1 Flutningur á eignarhaldi
 
 Félag sem á lið í móti getur gefið, selt eða á annan hátt fært stjórn sitt til annars félags eða annara leikmanna. Þegar á við lið sem er ekki í eigu félags, þá getur virkur meirihluti leikmanna gefið, selt eða á annan hátt fært eignarhald sitt til annars félags eða annara leikmanna.
 
 ### 2.2.3 Liðsstjóri liðs
-
 Hvert lið skal hafa liðsstjóra. Mótstjórn skal almennt beina samskiptum sínum við liðið til liðsstjóra þess.
 
 Liðsstjóri liðs ber ábyrgð á því að fylgjast með því hvort mótstjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá, sbr. reglur 2.1.5 um samskipti við þátttakendur.
@@ -173,7 +158,7 @@ Lið mega ekki auglýsa áfenga drykki eða tóbak; eða bera vörumerki þeirra
 
 Hvert lið skal hafa nafn. Nafni liðs getur ekki verið breytt á meðan mótinu stendur nema með leyfi mótstjórnar.
 
-Mótstjórn áskilur sér rétt til að krefja lið um breytingu á nafni þyki það ekki við hæfi.
+Mótstjórn áskilur sér rétt til að krefja lið um breytingu á nafni þyki það ekki við hæfi. 
 Dæmi um nöfn sem ekki teljast við hæfi eru meðal annars:
 
 - Nöfn sem eru orðrétt, keimlík eða nánast eins og einkaréttarvarin vörumerki nema eigandi vörumerkisins sé einnig eigandi eða styrktaraðili liðsins.
@@ -204,7 +189,7 @@ Dæmi um merki sem ekki teljast við hæfi eru meðal annars:
 
 ### 2.2.7 Keppnistreyjur liðs
 
-Mótstjórn áskilur sér rétt til að krefja lið um breytingar á keppnistreyjum þyki þær ekki við hæfi.
+Mótstjórn áskilur sér rétt til að krefja lið um breytingar á keppnistreyjum þyki þær ekki við hæfi. 
 
 Dæmi um keppnistreyjur sem ekki teljast við hæfi eru meðal annars:
 
@@ -234,11 +219,11 @@ Lið í mótinu geta ekki bætt við sig nýjum leikmönnum á meðan móti sten
 
 Liðum í úrvalsdeildum mótsins er heimilt að gera eina breytingu á leikmannahóp sínum yfir tímabilið ef lið nær ekki að spila út 5 manna liði í næstu umferð. Slík neyðarskipting er háð samþykki mótstjórnar. Sé breytingin samþykkt getur liðið bætt einum leikmanni við liðið eða, sé liðið þegar fullmannað, skipt út einum leikmanni. Leikmaðurinn sem kemur inn í liðið má ekki hafa spilað með öðru liði í League of Legends deildum eða mótum RÍSÍ síðastliðnar 4 vikur.
 
-## 2.3 Deildir
+## 2.3 Deildir 
 
 ### 2.3.1 Þátttökugjald
 
-Þátttökugjald er í öllum deildum og er upphæð gjaldsins ákveðin af mótastjórn. Til að leikmaður sé löglegur til keppni verður hann að hafa lokið greiðslu til þátttöku. Mótsgjald fyrir liðið er greitt af einni manneskju úr hverju liði oftast fyrirliða liðs.
+Þátttökugjald er í öllum deildum og er upphæð gjaldsins ákveðin af mótastjórn. Til að leikmaður sé löglegur til keppni verður hann að hafa lokið greiðslu til þátttöku. Mótsgjald fyrir liðið er greitt af einni manneskju úr hverju liði oftast fyrirliða liðs. 
 
 ### 2.3.2 KIA deildin (úrvalsdeild)
 
@@ -254,7 +239,7 @@ Deildin áskilur sér þann rétt að halda eftir greiðslum ef að keppandi eð
 
 #### 2.3.2.2 Keppnisdagar
 
-Keppnisdagar í KIA deildinni eru miðvikudaga frá kl. 19:00 - 22:00 frá 3. september til 12. nóvember. Liðum ber að senda replay file á mótastjóra að leik loknum.
+Keppnisdagar í KIA deildinni eru miðvikudaga frá  kl. 19:00 - 22:00 frá 3. september til 12. nóvember. Liðum ber að senda replay file á mótastjóra að leik loknum.
 
 ### 2.3.3 Áhugamannadeildir - Fyrsta deild og niður
 
@@ -268,7 +253,6 @@ Keppnisdagar í KIA deildinni eru miðvikudaga frá kl. 19:00 - 22:00 frá 3. se
 Eitt stig eru veitt fyrir sigur, alltaf er leikið til úrslita sem skilar öðru liði sigri. Núll stig eru veitt fyrir tap.
 
 Ef að tvö eða fleiri lið eru jöfn að stigum að deildarkeppni er lokið eru liðin borin saman á eftirfarandi hátt í þessari röð:
-
 - Innbyrðis úrslit
 - Leiktími í sigurleikjum (sneggri sigrar eru betri)
 - Handahófskennd röðun framkvæmd af mótstjóra.
@@ -336,7 +320,7 @@ Sé leik streymt í beinni útsendingu skulu leikmenn ekki skrifa í chat streym
 
 ### 2.4.9 Streymi (e. stream) þátttakenda
 
-Leikmönnum er heimilt að streyma leikjum sínum með 3 mínútna stream delay.
+Leikmönnum er heimilt að streyma leikjum sínum með 3 mínútna stream delay. 
 Leikmönnum er óheimilt að horfa á streymi mótherja á meðan leik stendur.
 
 ### 2.4.10 Samskipti liðs
@@ -345,13 +329,11 @@ Leikmönnum er óheimilt að horfa á streymi mótherja á meðan leik stendur.
 Mótstjórn er heimilt að koma í talrásina ef skyldi koma upp ástæða til þess að tala við liðið eða þjálfara liðs.
 
 ### 2.4.11 Hetjuval (e. Champion Select).
-
-Lið bera ábyrgð á að setja upp hetjuval á <https://draftlol.dawe.gg> fyrir leik til að velja hetjur fyrir leik.
+Lið bera ábyrgð á að setja upp hetjuval á https://draftlol.dawe.gg fyrir leik til að velja hetjur fyrir leik. 
 
 Fyrirliði hvers liðs ber ábyrgð að senda hlekk (e. link) af hetjuvali á mótstjórn þegar hún er gerð.
 
 ### 2.4.12 Skiptingar í viðureignum
-
 Lið má skipta um leikmann á milli leikja í einvígi (þ.e. milli leiks 1 og leiks 2 o.s.frv.). Sá sem kemur inn verður að vera skráður varamaður í liðshóp.
 
 Lið hefur 5 mínútur eftir að fyrri leikur klárast til að láta mótastjórn og andstæðing vita að skipting á sér stað í næsta leik, ef lið lætur ekki vita tímanlega þarf leikmaður sem átti að vera skipt út að spila eða liðið gefur leikinn.
@@ -369,4 +351,7 @@ Liðum er heimilt að hafa 1 skráðan þjálfara. Þjálfarar mega einungis fyl
 ### 2.5.3 Samskipti þjálfara við lið
 
 Þjálfarar þurfa að vera inni á talrás með liðinu sínu á Discord “Íslenska LoL Samfélagið” meðan leikur stendur fyrir, sbr. reglu 2.4.11 um samskipti liðs. (Þessi regla gildir einungis ef þjálfari er viðstaddur á meðan leik stendur).
-Þjálfara er óheimilt að tala meðan leikur stendur og verður að vera með slökkt á hljóði (e. muted) nema í hetjuvali (e. Champion Select). Þjálfarar mega ekki tala ef það er pása í leiknum vegna tæknilegra eða annarra ástæðna.
+Þjálfara er óheimilt að tala meðan leikur stendur og verður að vera með slökkt á hljóði  (e. muted) nema í hetjuvali (e. Champion Select). Þjálfarar mega ekki tala ef það er pása í leiknum vegna tæknilegra eða annarra ástæðna.
+
+
+

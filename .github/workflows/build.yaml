@@ -1,0 +1,48 @@
+name: Build PDF
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+
+env:
+  LEI_VERSION: 'v1.0.1'
+  LEI_PDF: 'LEÍ_${LEI_VERSION}.pdf'
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pulling repo
+        uses: actions/checkout@v6
+
+      - name: Create Build dir
+        run: mkdir -p build
+
+      - name: Preprocess metadata
+        uses: docker://pandoc/extra:3.8
+        with:
+          args: >-
+            --defaults defaults/metadata.yaml
+            --metadata version="${LEI_VERSION}"
+
+      - name: DEBUG cat metadata
+        run: cat build/metadata.yaml
+
+      - name: Create pdf
+        uses: docker://pandoc/extra:3.8
+        with:
+          args: >-
+            --defaults defaults/latex.yaml
+            --metadata version="${LEI_VERSION}"
+            -o build/"${{ env.LEI_PDF }}"
+
+      - name: Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${LEI_VERSION}" "${{ env.LEI_PDF }}" \
+          --title "LEÍ ${LEI_VERSION}" \
+          --notes "TODO: add notes for release"
+          gh release verify ${LEI_VERSION}
