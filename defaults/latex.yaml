@@ -1,6 +1,8 @@
 input-file: src/base.md
 from: markdown
 
+verbosity: INFO
+
 metadata-file: build/metadata.yaml
 pdf-engine: latexmk
 

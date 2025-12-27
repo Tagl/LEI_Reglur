@@ -8,7 +8,7 @@ metadata-file: build/metadata.yaml
 
 verbosity: INFO
 fail-if-warnings: true
-wrap: none
+wrap: preserve
 
 # Document Structure
 standalone: true
