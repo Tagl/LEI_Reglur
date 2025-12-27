@@ -1,7 +1,8 @@
 name: Build PDF
 on:
-  tags:
-  - '*'
+  push:
+    tags:
+      - '*'
 
 env:
   LEI_VERSION: $ {{ github.ref_name }}
