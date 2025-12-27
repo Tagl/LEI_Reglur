@@ -21,14 +21,8 @@ jobs:
       - name: Create Build dir
         run: mkdir -p build
 
-      - name: Preprocess metadata
-        uses: docker://pandoc/extra:3.8
-        with:
-          args: >-
-            --defaults defaults/metadata.yaml
-            --metadata version="${LEI_VERSION}"
-
-      - name: DEBUG cat metadata
+        # TODO: dont do dumb hacks to evaluate variables
+      - name: evaluate pdf name
         run: echo "LEI_PDF=${{ env.LEI_PDF_NAME }}" >> $GITHUB_ENV
 
       - name: Create pdf

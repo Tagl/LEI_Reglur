@@ -354,4 +354,3 @@ Liðum er heimilt að hafa 1 skráðan þjálfara. Þjálfarar mega einungis fyl
 Þjálfara er óheimilt að tala meðan leikur stendur og verður að vera með slökkt á hljóði  (e. muted) nema í hetjuvali (e. Champion Select). Þjálfarar mega ekki tala ef það er pása í leiknum vegna tæknilegra eða annarra ástæðna.
 
 
-
