@@ -355,4 +355,3 @@ Liðum er heimilt að hafa 1 skráðan þjálfara. Þjálfarar mega einungis fyl
 
 
 
-
