@@ -1,0 +1,17 @@
+# Input and Output settings
+input-file: src/base.md
+from: markdown
+to: gfm
+output-file: README.md
+template: src/base.md
+
+verbosity: INFO
+fail-if-warnings: true
+
+## data-dir: dir  # what is
+
+# Document Structure
+standalone: true
+
+# Metadata and Variables
+metadata-file: build/metadata.yaml

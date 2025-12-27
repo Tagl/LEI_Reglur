@@ -1,0 +1,22 @@
+# Input and Output settings
+input-file: src/base.md
+from: markdown
+
+metadata-file: build/metadata.yaml
+pdf-engine: latexmk
+
+# Document Structure
+standalone: true
+number-sections: true
+template: templates/eisvogel.latex
+table-of-contents: true
+toc-depth: 2
+
+variables:
+  papersize: a4
+  titlepage: true
+  toc-own-page: true
+  hyperrefoptions: linktoc=all
+  # mainfont: "Times New Roman"
+  # fontsize: 12pt
+  # geometry: margin=1in
