@@ -1,0 +1,10 @@
+defaults:
+- defaults/common.yaml
+
+to: gfm
+output-file: README.md
+template: templates/readme.gfm.md
+
+# Document Structure
+standalone: true
+wrap: preserve

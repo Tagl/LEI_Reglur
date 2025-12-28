@@ -1,0 +1,6 @@
+input-file: src/base.md
+from: gfm
+metadata-file: src/metadata.yaml
+
+verbosity: INFO
+fail-if-warnings: false

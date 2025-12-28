@@ -1,0 +1,20 @@
+defaults:
+- defaults/common.yaml
+
+pdf-engine: latexmk
+
+# Document Structure
+standalone: true
+template: templates/eisvogel.latex
+include-in-header: templates/abstract.tex
+table-of-contents: true
+toc-depth: 2
+
+variables:
+  papersize: a4
+  titlepage: true
+  toc-own-page: true
+  hyperrefoptions: linktoc=all
+  # mainfont: "Times New Roman"
+  # fontsize: 12pt
+  # geometry: margin=1in
