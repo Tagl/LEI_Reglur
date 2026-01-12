@@ -1,8 +1,8 @@
 LEÍ Reglubók
 League of Legends
 
-Uppfært 2025-10-13
-v1.0.1
+Uppfært 2026-01-07
+v1.0.2-dirty
 
 # Formáli
 
@@ -21,7 +21,6 @@ LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagning
 Eftirtaldir eru einu aðilar sem taka ákvarðanir og á að leita til varðandi spurninga, vangaveltna eða aðstoðar varðandi reglur eða mót.
 
 - Sara Helena Bjarnad. Blöndal \<<sarablondal@gmail.com>\>
-- Mist Magnúsdóttir \<<mist.magnusdottir@gmail.com>\>
 - Brimar Jörvi Guðmundsson \<<brimarjorvi@gmail.com>\>
 
 ### 1.0.1 Siðareglur mótstjórnar
@@ -125,11 +124,15 @@ Einnig eru heiti bönnuð sem að:
 
 Það að breyta hvernig orð er ritað til að komast framhjá þessum kvöðum virkar ekki.
 
-Leikmaður má ekki breyta um nafn í leik á meðan móti stendur nema mótstjórn biður sérstaklega um það,
+Leikmaður má ekki breyta um nafn í leiknum á meðan móti stendur nema mótstjórn biðji sérstaklega um það.
+
+Leikmaður má ekki vera með “streamer mode” í gangi þegar verið er að spila.
+Ef leikmaður slekkur ekki á því eftir viðvörun mótsstjórnar fær sá leikmaður ekki að klára viðureign og fer í eins leikja bann.
+(Leikur samgildir viðureign, s.s. ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign).
 
 ### 2.1.2 Lögmæti leikmanns í liði
 
-Til að vera lögmætur leikmaður í liði þarf hann að vera skráður í liðið á Challengermode.com, hafa greitt þátttökugjald mótsins og vera með League of Legends account sinn tengdan við síðuna.
+Til að vera lögmætur leikmaður í liði þarf hann að vera skráður í liðið á Challengermode.com með þeim League of Legends aðgang sem er verið að spila á (ef spilari er ekki að nota sama League of Legends aðgang og er skráður á Challengermode er leikmaður ekki lögmætur).
 Lið geta ekki skipt um leikmenn á meðan móti stendur.
 
 ### 2.1.3 Varamenn
@@ -224,15 +227,31 @@ Dæmi um keppnistreyjur sem ekki teljast við hæfi eru meðal annars:
 
 4/5 hlutar leikmanna liðs í leik skulu vera annað hvort með íslenska kennitölu eða íslenskt lögheimili.
 
-Hámark tveir einstaklingar mega vera án íslenskrar kennitölu og íslenskt lögheimili í liðshóp. Liðshópur má vera mest 8 einstaklingar.
+Hámark tveir einstaklingar mega vera án íslenskrar kennitölu og íslenskt lögheimili í liðshóp þ.e.a.s aðeins einn spilari í main roster og einn sub má vera af erlendu bergi brotinn. Lið má í mesta lagi innihalda 8 spilara.
 
 ### 2.2.9 Leikmannaskipti
 
-Lið í mótinu geta ekki bætt við sig nýjum leikmönnum á meðan móti stendur, að undanskildri neyðarskiptingu í úrvalsdeildum, sbr. reglu 2.2.10 um neyðarskiptingu.
+Lið í mótinu geta ekki bætt við sig nýjum leikmönnum á meðan móti stendur, að undanskildri neyðarskiptingu í úrvalsdeildum, sbr. reglu 2.2.9.1 um neyðarskiptingu.
 
-### 2.2.10 Neyðarskipting
+#### 2.2.9.1 Neyðarskipting
 
 Liðum í úrvalsdeildum mótsins er heimilt að gera eina breytingu á leikmannahóp sínum yfir tímabilið ef lið nær ekki að spila út 5 manna liði í næstu umferð. Slík neyðarskipting er háð samþykki mótstjórnar. Sé breytingin samþykkt getur liðið bætt einum leikmanni við liðið eða, sé liðið þegar fullmannað, skipt út einum leikmanni. Leikmaðurinn sem kemur inn í liðið má ekki hafa spilað með öðru liði í League of Legends deildum eða mótum RÍSÍ síðastliðnar 4 vikur.
+
+### 2.2.10
+
+Þar sem spilarar hafa skuldbundið sig að spila á þessu móti þurfa að vera afleiðingar fyrir þá sem annað hvort hætta í liðinu sínu án fyrirvara eða eru reknir úr liði.
+
+#### 2.2.10.1 Mótastjórn vísar einstakling úr móti
+
+Ef einstaklingur gerist brotlegur við reglum hefur mótastjórn fullt leyfi til að banna þann einstakling frá því móti og framtíðarmótum. Liðið fær ekki annan spilara í staðinn fyrir þann sem gerðist brotlegur við reglur.
+
+#### 2.2.10.2 Lið vísar spilara úr móti / spilari hættir við þátttöku
+
+Ef ekki er gefin góð ástæða fyrir fjarveru eða skrópi í deild áskilur LEÍ sér að banna viðkomandi einstakling frá mótum næsta árið auk þess að engin endurgreiðsla er gefin.
+
+#### 2.2.10.3 Lið ákveður að hætta við þátttöku
+
+Ef minna en 24 tímar eru í upphaf móts mun mótastjórn ekki endurgreiða skráningarkostnað.
 
 ## 2.3 Deildir
 
@@ -243,9 +262,7 @@ Liðum í úrvalsdeildum mótsins er heimilt að gera eina breytingu á leikmann
 ### 2.3.2 KIA deildin (úrvalsdeild)
 
 - Keppnistímabil er 8-12 vikur eftir tímabilum.
-- Deild er með allt að 16 liðum.
-- Leikin verður ein umferð þar sem hvert lið spilar gegn sérhverju öðru liði.
-- Efstu 8 sætin eftir umferðina fara í útsláttarkeppni.
+- Deild er með 8 lið.
 
 #### 2.3.2.1 Greiðsla verðlaunafés
 
@@ -254,18 +271,18 @@ Deildin áskilur sér þann rétt að halda eftir greiðslum ef að keppandi eð
 
 #### 2.3.2.2 Keppnisdagar
 
-Keppnisdagar í KIA deildinni eru miðvikudaga frá kl. 19:00 - 22:00 frá 3. september til 12. nóvember. Liðum ber að senda replay file á mótastjóra að leik loknum.
+Keppnisdagar í KIA deildinni eru mánudaga frá kl. 19:00 - 22:00 frá 19. janúar til 12. apríl. Liðum ber að senda replay file á mótastjóra að leik loknum.
 
 ### 2.3.3 Áhugamannadeildir - Fyrsta deild og niður
 
-- Keppnistímabil er 7 vikur.
-- 8 lið eru í deildinni.
+- Keppnistímabil er 7 - 12 vikur eftir tímabilum.
+- Allt að 16 lið eru í deildinni.
 - Leiknar verða tvær umferðir, hvert lið á heima og úti leik gagnvart sérhverju öðru liði í Bo1 (Best af einu) en báðir leikirnir eru leiknir á sama keppnisdegi.
 - Keppnisdagar eru sunnudagar og eru þá leiknir tveir leikir í röð. Heimilt er að skipuleggja viðureign í samráði við andstæðinga í vikunni á undan.
 
 ### 2.3.4 Stigagjöf
 
-Eitt stig eru veitt fyrir sigur, alltaf er leikið til úrslita sem skilar öðru liði sigri. Núll stig eru veitt fyrir tap.
+Eitt stig er veitt fyrir sigur, alltaf er leikið til úrslita sem skilar öðru liði sigri. Núll stig eru veitt fyrir tap.
 
 Ef að tvö eða fleiri lið eru jöfn að stigum að deildarkeppni er lokið eru liðin borin saman á eftirfarandi hátt í þessari röð:
 
@@ -277,13 +294,17 @@ Ef að tvö eða fleiri lið eru jöfn að stigum að deildarkeppni er lokið er
 
 Mótmæli eða kvartanir vegna leiks sem er liðinn verða að berast mótstjórnendum að hámarki 72 klst. eftir að leik lýkur. Áður en að mótmæli eru sett fram skal móta þau á góðan máta og koma þeim til mótstjórnenda.
 
+#### 2.3.5.1 Kurteisi við mótastjórn
+
+Áður en að mótmæli eru sett fram skal móta þau á góðan máta og koma þeim til mótstjórnenda. Minnt er á að mótastjórn tekur sjálf ákvarðanir varðandi refsingar. Ef þú ert ósátt/ur við hvernig mótastjórn hagar málum er þér velkomið að senda ábendingu til Bjarka, mótastjóra RÍSÍ.
+
 ## 2.4 Framkvæmd leikja
 
 ### 2.4.1 Stundvísi
 
 Leikir hefjast á þeim tíma sem þeir eru skráðir á en mótstjórn áskilur sér rétt til að breyta tímasetningum leikja. Ætlast er til þess að leikmenn séu komnir í lobby 10 mínútum áður en leikur hefst. Ef að lið er ekki komið með fimm leikmenn 15 mínútum eftir skráðan leiktíma fær það sjálfkrafa skráð á sig tap í þeim leik.
 
-Athugið að það þarf að velja þá fimm leikmenn sem eiga að keppa í leik og stilla þeim upp í “Virkan” leikmannahóp inni á vef Challengermode áður en leikur hefst.
+Athugið að það þarf að velja þá fimm leikmenn sem eiga að keppa í leik og stilla þeim upp í “Virkan” leikmannahóp inni á vef Challengermode allavega þremur klukkustundum en leikur hefst. Ef lið fylgja ekki þessarri reglu fá þeir viðvörun og ef lið hefur fengið 2 viðvaranir þá fær lið alltaf tap í fyrsta leik viðureignar
 
 ### 2.4.2 Hliðarval (e. Side selection)
 
@@ -307,7 +328,7 @@ Athugið að það þarf að velja þá fimm leikmenn sem eiga að keppa í leik
 
 ### 2.4.3 Niðurstaða leiks
 
-Niðurstöður leikja eru sjálfkrafa skráðar í kerfi challengermode.com. Senda þarf replay file á mótastjóra úr hverjum leik, strax eftir hvern leik.
+Niðurstöður leikja eru sjálfkrafa skráðar í kerfi challengermode.com ef kerfið virkar ekki þarf að senda mótastjóra screenshot með niðurstöðum úr leik .Senda þarf replay file á mótastjóra úr hverjum leik, strax eftir hvern leik.
 
 ### 2.4.4 Pása á leik
 
