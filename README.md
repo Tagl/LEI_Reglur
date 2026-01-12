@@ -1,7 +1,7 @@
 LEÍ Reglubók
 League of Legends
 
-Uppfært 2026-01-07
+Uppfært 2026-01-08
 v1.0.2-dirty
 
 # Formáli
@@ -29,7 +29,7 @@ Mótastjórar skulu:
 
 - Koma fram af fullkomnum heilindum og háttvísi gagnvart sjálfum sér og öðrum.
 - Gæta trúnaðar og þagmælsku í störfum sínum.
-- Ekki misnota valdastöðu sína eða hvers konar yfirburði sem þeir kunna að hafa yfir öðrum.
+- Ekki misnota valdastöðu sína eða hvers konar yfirburði sem þau kunna að hafa yfir öðrum.
 - Gæta jafnræðis og varast að misbjóða virðingu einstaklinga eða hópa t.d. hvað varðar kynþátt, þjóðernisuppruna, trú, lífsskoðun, fötlun, félagslega stöðu, aldur, kynhneigð, kynvitund, kyneinkenni eða kyntjáningu á öllum sviðum samfélagsins.
 - Aldrei taka, hvort heldur sem er með beinum eða óbeinum hætti, þátt í veðmálum, fjárhættuspilum, happdrætti og þess háttar viðburðum eða viðskiptum í tengslum við mótið.
 - Hvorki þiggja gjafir eða hlunnindi sem geta leitt til þess að rýra trúverðugleika, sjálfstæði eða hlutleysi þeirra.
@@ -46,7 +46,7 @@ Brjóti þátttakandi gegn reglum þessum getur það leitt til refsinga. Mótst
 - Tafarlaus brottrekstur þátttakanda úr mótinu.
 - Tímabundið leikbann þátttakanda.
 - Tímabundið bann þátttakanda úr mótinu.
-- Ævilangt bann þátttakanda úr mótinu.
+- Ævilangt bann þátttakanda úr mótinu og framtíðarmótum.
 
 Dæmist þátttakandi brotlegur að fleiri en einni reglu og hlýtur fyrir það meira en eina refsingu skal mótstjórn dæma um hvort refsingarnar skuli sér eiga sér stað samtímis eða hver á eftir annarri þegar við á.
 
@@ -105,7 +105,7 @@ Notkun áfengis og annarra vímuefna er stranglega bönnuð á meðan keppni ste
 Allir þátttakendur skulu kynna sér reglur þessar.
 Þátttakendur í mótum LEÍ/RÍSÍ þurfa að hafa náð 18 ára aldri eða vera með skriflegt leyfi frá forráðamanni sem gefur samþykki fyrir þátttöku hans í mótinu.
 
-### 2.1.1 Heiti leikmanns í leik (Nickname)
+### 2.1.1 Heiti leikmanns í leik (e. Nickname)
 
 Heiti leikmanns má aðeins innihalda nafn eins styrktaraðila, og þá skeytt fyrir framan sjálft nafn leikmanns. Heiti leikmanns inni í leik má ekki vera aðeins nafn styrktaraðila.
 
@@ -126,13 +126,13 @@ Einnig eru heiti bönnuð sem að:
 
 Leikmaður má ekki breyta um nafn í leiknum á meðan móti stendur nema mótstjórn biðji sérstaklega um það.
 
-Leikmaður má ekki vera með “streamer mode” í gangi þegar verið er að spila.
+Leikmaður má ekki vera með *streamer mode* í gangi þegar verið er að spila.
 Ef leikmaður slekkur ekki á því eftir viðvörun mótsstjórnar fær sá leikmaður ekki að klára viðureign og fer í eins leikja bann.
-(Leikur samgildir viðureign, s.s. ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign).
+Leikur samgildir viðureign, s.s. ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign.
 
 ### 2.1.2 Lögmæti leikmanns í liði
 
-Til að vera lögmætur leikmaður í liði þarf hann að vera skráður í liðið á Challengermode.com með þeim League of Legends aðgang sem er verið að spila á (ef spilari er ekki að nota sama League of Legends aðgang og er skráður á Challengermode er leikmaður ekki lögmætur).
+Til að vera lögmætur leikmaður í liði þarf hann að vera skráður í liðið á Challengermode.com með þeim League of Legends aðgang sem er verið að spila á, ef spilari er ekki að nota sama League of Legends aðgang og er skráður á Challengermode er leikmaður ekki lögmætur spilari.
 Lið geta ekki skipt um leikmenn á meðan móti stendur.
 
 ### 2.1.3 Varamenn
@@ -159,11 +159,11 @@ Sé lið ekki að keppa undir merkjum félags með kennitölu er litið svo á a
 
 Félag sem á lið í móti getur gefið, selt eða á annan hátt fært stjórn sitt til annars félags eða annara leikmanna. Þegar á við lið sem er ekki í eigu félags, þá getur virkur meirihluti leikmanna gefið, selt eða á annan hátt fært eignarhald sitt til annars félags eða annara leikmanna.
 
-### 2.2.3 Liðsstjóri liðs
+### 2.2.3 Fyrirliði liðs
 
-Hvert lið skal hafa liðsstjóra. Mótstjórn skal almennt beina samskiptum sínum við liðið til liðsstjóra þess.
+Hvert lið skal hafa fyrirliða. Mótstjórn skal almennt beina samskiptum sínum við liðið til fyrirliða þess.
 
-Liðsstjóri liðs ber ábyrgð á því að fylgjast með því hvort mótstjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá, sbr. reglur 2.1.5 um samskipti við þátttakendur.
+Fyrirliði liðs ber ábyrgð á því að fylgjast með því hvort mótstjórn hafi haft samband við þá eða hafi reynt að ná sambandi við þá, sbr. reglur 2.1.5 um samskipti við þátttakendur.
 
 ### 2.2.4 Styrktaraðilar liða
 
@@ -205,6 +205,8 @@ Dæmi um merki sem ekki teljast við hæfi eru meðal annars:
 - Merki sem brjóta gegn reglum um óviðeigandi hegðun.
 - Merki sem fylgja ekki þema mótsins sem liðið tekur þátt í.
 
+Logo þurfa að vera afhent mótastjórum a.m.k. degi fyrir fyrstu útsendingu.
+
 ### 2.2.7 Keppnistreyjur liðs
 
 Mótstjórn áskilur sér rétt til að krefja lið um breytingar á keppnistreyjum þyki þær ekki við hæfi.
@@ -227,7 +229,7 @@ Dæmi um keppnistreyjur sem ekki teljast við hæfi eru meðal annars:
 
 4/5 hlutar leikmanna liðs í leik skulu vera annað hvort með íslenska kennitölu eða íslenskt lögheimili.
 
-Hámark tveir einstaklingar mega vera án íslenskrar kennitölu og íslenskt lögheimili í liðshóp þ.e.a.s aðeins einn spilari í main roster og einn sub má vera af erlendu bergi brotinn. Lið má í mesta lagi innihalda 8 spilara.
+Hámark tveir einstaklingar mega vera án íslenskrar kennitölu og íslenskt lögheimili í liðshóp það er að segja aðeins einn spilari í main roster og einn sub má vera af erlendu bergi brotinn. Lið má í mesta lagi innihalda 8 spilara.
 
 ### 2.2.9 Leikmannaskipti
 
@@ -247,7 +249,7 @@ Ef einstaklingur gerist brotlegur við reglum hefur mótastjórn fullt leyfi til
 
 #### 2.2.10.2 Lið vísar spilara úr móti / spilari hættir við þátttöku
 
-Ef ekki er gefin góð ástæða fyrir fjarveru eða skrópi í deild áskilur LEÍ sér að banna viðkomandi einstakling frá mótum næsta árið auk þess að engin endurgreiðsla er gefin.
+Ef ekki er gefin góð ástæða fyrir fjarveru eða skrópi í deild áskilur LEÍ sér rétt til að banna viðkomandi einstakling frá mótum næsta árið auk þess að engin endurgreiðsla er gefin.
 
 #### 2.2.10.3 Lið ákveður að hætta við þátttöku
 
@@ -266,7 +268,7 @@ Ef minna en 24 tímar eru í upphaf móts mun mótastjórn ekki endurgreiða skr
 
 #### 2.3.2.1 Greiðsla verðlaunafés
 
-Verðlaunafé verður greitt út með millifærslu á liðstjóra liðs við lok deildar.
+Verðlaunafé verður greitt út með millifærslu á fyrirliða liðs við lok deildar.
 Deildin áskilur sér þann rétt að halda eftir greiðslum ef að keppandi eða lið gerast sek um brot á reglum.
 
 #### 2.3.2.2 Keppnisdagar
@@ -287,7 +289,7 @@ Eitt stig er veitt fyrir sigur, alltaf er leikið til úrslita sem skilar öðru
 Ef að tvö eða fleiri lið eru jöfn að stigum að deildarkeppni er lokið eru liðin borin saman á eftirfarandi hátt í þessari röð:
 
 - Innbyrðis úrslit
-- Leiktími í sigurleikjum (sneggri sigrar eru betri)
+- Leiktími í sigurleikjum, styttri tími er betri.
 - Handahófskennd röðun framkvæmd af mótstjóra.
 
 ### 2.3.5 Mótmæli / Kvartanir yfir leik
@@ -296,7 +298,9 @@ Mótmæli eða kvartanir vegna leiks sem er liðinn verða að berast mótstjór
 
 #### 2.3.5.1 Kurteisi við mótastjórn
 
-Áður en að mótmæli eru sett fram skal móta þau á góðan máta og koma þeim til mótstjórnenda. Minnt er á að mótastjórn tekur sjálf ákvarðanir varðandi refsingar. Ef þú ert ósátt/ur við hvernig mótastjórn hagar málum er þér velkomið að senda ábendingu til Bjarka, mótastjóra RÍSÍ.
+Áður en að mótmæli eru sett fram skal móta þau á góðan máta og koma þeim til mótstjórnenda.
+Minnt er á að mótastjórn tekur sjálf ákvarðanir varðandi refsingar.
+Ef einstaklingur er ósáttur við ákvarðanir eða framkomu mótstjórnenda má senda áfrýjanir á mótastjóra RÍSÍ.
 
 ## 2.4 Framkvæmd leikja
 
@@ -304,7 +308,7 @@ Mótmæli eða kvartanir vegna leiks sem er liðinn verða að berast mótstjór
 
 Leikir hefjast á þeim tíma sem þeir eru skráðir á en mótstjórn áskilur sér rétt til að breyta tímasetningum leikja. Ætlast er til þess að leikmenn séu komnir í lobby 10 mínútum áður en leikur hefst. Ef að lið er ekki komið með fimm leikmenn 15 mínútum eftir skráðan leiktíma fær það sjálfkrafa skráð á sig tap í þeim leik.
 
-Athugið að það þarf að velja þá fimm leikmenn sem eiga að keppa í leik og stilla þeim upp í “Virkan” leikmannahóp inni á vef Challengermode allavega þremur klukkustundum en leikur hefst. Ef lið fylgja ekki þessarri reglu fá þeir viðvörun og ef lið hefur fengið 2 viðvaranir þá fær lið alltaf tap í fyrsta leik viðureignar
+Athugið að það þarf að velja þá fimm leikmenn sem eiga að keppa í leik og stilla þeim upp í “Virkan” leikmannahóp inni á vef Challengermode allavega þremur klukkustundum en leikur hefst. Ef lið fylgja ekki þessarri reglu fá þau viðvörun og ef lið hefur fengið 2 viðvaranir þá fær það lið alltaf tap í fyrsta leik viðureignar
 
 ### 2.4.2 Hliðarval (e. Side selection)
 
@@ -328,17 +332,18 @@ Athugið að það þarf að velja þá fimm leikmenn sem eiga að keppa í leik
 
 ### 2.4.3 Niðurstaða leiks
 
-Niðurstöður leikja eru sjálfkrafa skráðar í kerfi challengermode.com ef kerfið virkar ekki þarf að senda mótastjóra screenshot með niðurstöðum úr leik .Senda þarf replay file á mótastjóra úr hverjum leik, strax eftir hvern leik.
+Niðurstöður leikja eru sjálfkrafa skráðar í kerfi challengermode.com ef kerfið virkar ekki þarf að senda mótastjóra screenshot með niðurstöðum úr leik á viðeigandi discord rás með gameID og pick/ban upplýsingum .
+Senda þarf replay file á mótastjóra úr hverjum leik, strax eftir hvern leik.
 
 ### 2.4.4 Pása á leik
 
 Ef upp koma tæknileg vandamál skal leikur pásaður. Gera þarf andstæðingum grein fyrir hvert vandamálið er. Þegar vandamálið er leyst skal ganga úr skugga um að bæði lið séu tilbúin áður en leikur hefst aftur.
 
-### 2.4.5 Notkun galla í leik (bugs and glitches)
+### 2.4.5 Notkun galla í leik (e. bugs and glitches)
 
 Viljandi notkun á galla (bug / glitch) í leiknum er með öllu óheimil. Mótstjórnendur hafa fullt vald til þess að ákvarða hvort að lið hafi beitt ólöglegum aðferðum í leik og hvaða áhrif það hefur haft á leikinn.
 
-### 2.4.6 Stillingar og notkun ólöglegra forrita (svindl)
+### 2.4.6 Stillingar og notkun ólöglegra forrita (e. cheats)
 
 Notkun hljóð-spjallforrita og hjálparforrit svosem Discord, Mumble, Porofessor og annara er löglegt. Öll notkun á svindlum er stranglega bönnuð.
 Verði leikmaður uppvís af notkun slíkra forrita er hann og liðið hans umsvifalaust rekið úr móti og leikmaður fær lágmarks 12 mánaða keppnisbann frá mótum samtaka. Notkun allra exploita er bönnuð.
