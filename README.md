@@ -2,7 +2,7 @@ LEÍ Reglubók
 League of Legends
 
 Uppfært 2026-01-08
-v1.0.2-dirty
+v1.0.3
 
 # Formáli
 
