@@ -139,7 +139,7 @@ Leikmaður má ekki breyta um nafn í leiknum á meðan móti stendur nema móts
 
 Leikmaður má ekki vera með *streamer mode* í gangi þegar verið er að spila.
 Ef leikmaður slekkur ekki á því eftir viðvörun mótsstjórnar fær sá leikmaður ekki að klára viðureign og fer í eins leikja bann.
-Leikur samgildir viðureign, svo sem ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign.
+Leikur samgildir viðureign, sem sagt ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign.
 
 ### 2.1.2 Lögmæti leikmanns í liði
 

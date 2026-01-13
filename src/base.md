@@ -13,7 +13,7 @@ abstract: |
 ## 1.0 Umsjónarmenn móta
 Eftirtaldir eru einu aðilar sem taka ákvarðanir og á að leita til varðandi spurninga, vangaveltna eða aðstoðar varðandi reglur eða mót.
 
-- Sara Helena Bjarnadóttir Blöndal <<sarablondal@gmail.com>>
+- Sara Helena Bjarnad. Blöndal <<sarablondal@gmail.com>>
 - Brimar Jörvi Guðmundsson <<brimarjorvi@gmail.com>>
 
 ### 1.0.1 Siðareglur mótstjórnar
