@@ -2,7 +2,7 @@ LEÍ Reglubók
 League of Legends
 
 Uppfært 2026-01-13
-v1.0.3-dirty
+v1.0.4
 
 # Formáli
 
@@ -20,7 +20,7 @@ LEÍ stendur fyrir League of Legends Esports á Íslandi og sér um skipulagning
 
 Eftirtaldir eru einu aðilar sem taka ákvarðanir og á að leita til varðandi spurninga, vangaveltna eða aðstoðar varðandi reglur eða mót.
 
-- Sara Helena Bjarnadóttir Blöndal \<<sarablondal@gmail.com>\>
+- Sara Helena Bjarnad. Blöndal \<<sarablondal@gmail.com>\>
 - Brimar Jörvi Guðmundsson \<<brimarjorvi@gmail.com>\>
 
 ### 1.0.1 Siðareglur mótstjórnar
@@ -139,7 +139,7 @@ Leikmaður má ekki breyta um nafn í leiknum á meðan móti stendur nema móts
 
 Leikmaður má ekki vera með *streamer mode* í gangi þegar verið er að spila.
 Ef leikmaður slekkur ekki á því eftir viðvörun mótsstjórnar fær sá leikmaður ekki að klára viðureign og fer í eins leikja bann.
-Leikur samgildir viðureign, sem sagt ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign.
+Leikur samgildir viðureign, svo sem ef hann gerir það í viðureign er leikmaður bannaður restina af þeirri viðureign og í næstu viðureign.
 
 ### 2.1.2 Lögmæti leikmanns í liði
 
