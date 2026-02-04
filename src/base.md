@@ -288,7 +288,6 @@ Deildin áskilur sér þann rétt að halda eftir greiðslum ef að keppandi eð
 #### 2.3.2.2 Keppnisdagar
 
 Keppnisdagar í KIA deildinni eru mánudaga frá  kl. 19:00 - 22:00 frá 19. janúar til 12. apríl.
-Liðum ber að senda replay file á mótastjóra að leik loknum.
 
 ### 2.3.3 Áhugamannadeildir - Fyrsta deild og niður
 
@@ -354,7 +353,6 @@ Ef lið fylgja ekki þessarri reglu fá þau viðvörun og ef lið hefur fengið
 
 Niðurstöður leikja eru sjálfkrafa skráðar í kerfi Challengermode.
 Ef kerfið virkar ekki þarf að senda mótastjóra screenshot með niðurstöðum úr leik á viðeigandi discord rás með *gameID* og pick/ban upplýsingum.
-Senda þarf replay file á mótastjóra úr hverjum leik, strax eftir hvern leik.
 
 ### 2.4.4 Pása á leik
 
