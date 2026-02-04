@@ -400,9 +400,10 @@ Liðsmenn hafa ekki heimild til þess að vera inni á öðrum talrásum meðan 
 Mótstjórn er heimilt að koma í talrásina ef skyldi koma upp ástæða til þess að tala við liðið eða þjálfara liðs.
 
 ### 2.4.11 Hetjuval (e. Champion Select).
-Lið bera ábyrgð á að setja upp hetjuval á [Draftlol](https://draftlol.dawe.gg) fyrir leik til að velja hetjur fyrir leik. 
+Lið bera ábyrgð á að setja upp hetjuval á [Draftlol](https://draftlol.dawe.gg) eða [Drafterlol](https://drafter.lol) fyrir leik til að velja hetjur fyrir leik. 
 
-Fyrirliði hvers liðs ber ábyrgð að senda hlekk (e. link) af hetjuvali á mótstjórn þegar hún er gerð.
+Fyrirliði hvers liðs ber ábyrgð að senda hlekk (e. link) af hetjuvali á mótstjórn inn á rás liðsins.
+Senda skal hlekkinn áður en hetjuvalið hefur byrjað.
 
 ### 2.4.12 Skiptingar í viðureignum
 Lið má skipta um leikmann á milli leikja í einvígi, það er milli leiks 1 og leiks 2 og svo framvegis.
